@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Example gift: a book you loved this year",
+    "description": "Sample entry. Replace with your own list.",
+    "category": "books",
+    "price_estimate": 15,
+    "image_url": null,
+    "purchase_link": "https://example.com/book",
+    "claimable": true,
+    "display_order": 1
+  },
+  {
+    "name": "Example gift: a scented candle",
+    "description": "Sample entry. Claiming hides it from other guests.",
+    "category": "home",
+    "price_estimate": 20,
+    "image_url": null,
+    "purchase_link": "https://example.com/candle",
+    "claimable": true,
+    "display_order": 2
+  },
+  {
+    "name": "Example gift: a voucher",
+    "description": "Sample entry that anyone can give, so it is never claimed.",
+    "category": "vouchers",
+    "price_estimate": null,
+    "image_url": null,
+    "purchase_link": "https://example.com/voucher",
+    "claimable": false,
+    "display_order": 3
+  }
+]
